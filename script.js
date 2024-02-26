@@ -1,0 +1,1 @@
+console.log("o PT esta destruindo o Brasil aos poucos")
